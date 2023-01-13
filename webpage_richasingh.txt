@@ -120,19 +120,19 @@
               <p align=center>
                 <a href="mailto:richas@mathworks.com, richachauhan92@gmail.com">Email</a> &nbsp/&nbsp
                 <!-- <a href="files/CV_dhruti_short.pdf">Short CV</a> &nbsp/&nbsp -->
-                <a href="files/CV_Dhruti_2022.pdf">CV</a> &nbsp/&nbsp
+                <a href="Resume_RichaSingh.pdf">CV</a> &nbsp/&nbsp
                 <a href="https://www.linkedin.com/in/richa-singh-4b554a10a/"> LinkedIn</a>
               </p>
             </td>
             <td width="50%">
-              <img width="100%" src="images/dhruti2.jpg">
+              <img width="100%" src="richa.jpg">
             </td>
           </tr>
         </table>
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
           <tr>
             <td width="100%" valign="middle">
-              <heading>Key Research Projects</heading>
+              <heading>Research Projects</heading>
             </td>
           </tr>
         </table>
