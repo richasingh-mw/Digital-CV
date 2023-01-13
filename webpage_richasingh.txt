@@ -118,10 +118,10 @@
               <!-- <p>I am a <a href="https://snapresearchfs.splashthat.com/"> Snap Research Scholar (2019)</a> and a <a
                   href="https://www.siebelscholars.com/scholar-profile/1425/">Siebel Scholar (2018)</a>!</p> -->
               <p align=center>
-                <a href="mailto:dhruti96shah@gmail.com">Email</a> &nbsp/&nbsp
+                <a href="mailto:richas@mathworks.com, richachauhan92@gmail.com">Email</a> &nbsp/&nbsp
                 <!-- <a href="files/CV_dhruti_short.pdf">Short CV</a> &nbsp/&nbsp -->
                 <a href="files/CV_Dhruti_2022.pdf">CV</a> &nbsp/&nbsp
-                <a href="https://www.linkedin.com/in/dhruti96shah"> LinkedIn</a>
+                <a href="https://www.linkedin.com/in/richa-singh-4b554a10a/"> LinkedIn</a>
               </p>
             </td>
             <td width="50%">
