@@ -72,7 +72,7 @@
       background-color: #ffffd0;
     }
   </style>
-  <title>Dhruti Shah</title>
+  <title>Richa Singh</title>
   <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
   <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
 
@@ -95,11 +95,11 @@
           <tr>
             <td width="67%" valign="middle">
               <p align="center">
-                <name>Dhruti Shah</name>
+                <name>Richa Singh</name>
               </p>
-              <p>Hi, I'm Dhruti! I am a Machine Learning Engineer at <a href="https://www.apple.com">Apple</a>  in Zurich. I work on improving search quality at AI/ML Apple. </p> 
+              <p>Hi, I am Dr. Richa Singh! I am an Application Engineer at <a href="https://www.mathworks.com/">MathWorks/a>  in Hyderabad, India. I work on providing solutions in Aerospace and defence industires by utilizing MATLAB toolbox with product focused on Physical modeling and Control. </p> 
 
-              <p>I obtained my Masters in Data Science at École polytechnique fédérale de Lausanne <a href="https://www.epfl.ch/en/">(EPFL)</a>. I did my Master's thesis at <a href="https://www.zurich.ibm.com">IBM Research Zurich</a>, in collaboration with <a href="https://people.epfl.ch/rudiger.urbanke">Prof Rudiger Urbanke</a> at EPFL.</p>
+              <p>I obtained my PhD and Masters in Aerospace Engineering with Dynamics and Controls as Specialization from IIT Bombay India. <a href="https://www.epfl.ch/en/">(EPFL)</a>. I did my Desertataion in collaboration with Prof P. S. V. Nataraj and Prof. Arnab Maity</a> at EPFL.</p>
 
               <p>I completed my Bachelors+Masters Dual Degree in Electrical Engineering from Indian Institute of Technology, Bombay <a href="https://www.iitb.ac.in">(IITB)</a>, with a specialization in Communication and Signal Processing, in 2014. I was awarded the Shankar Dayal Sharma <a href="https://www.iitb.ac.in/newacadhome/medaldetails.jsp">Institute Gold Medal</a> for general proficiency, excellence in academic performance, extra curricular activities and social services among all graduating students.</p>
 
