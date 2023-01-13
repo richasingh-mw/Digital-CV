@@ -1,0 +1,291 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
+  <meta name="google-site-verification" content="XXjK99sZKdpFN8kxwbglvDK8Gbhanfx-QfZGGG_TU1M" />
+  <style type="text/css">
+    /* Color scheme stolen from Sergey Karayev */
+
+    a {
+      color: #1772d0;
+      text-decoration: none;
+    }
+
+    a:focus,
+    a:hover {
+      color: #f09228;
+      text-decoration: none;
+    }
+
+    body,
+    td,
+    th,
+    tr,
+    p,
+    a {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 15px
+    }
+
+    abstract {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 13px;
+    }
+
+    strong {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 15px;
+    }
+
+    heading {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 23px;
+    }
+
+    papertitle {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 15px;
+      font-weight: 700
+    }
+
+    name {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 33px;
+    }
+
+    #paper_img {
+      width: 200;
+      height: 200;
+    }
+
+    .fade {
+      transition: opacity .2s ease-in-out;
+      -moz-transition: opacity .2s ease-in-out;
+      -webkit-transition: opacity .2s ease-in-out;
+    }
+
+    span.highlight {
+      background-color: #ffffd0;
+    }
+  </style>
+  <title>Dhruti Shah</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+  <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174206199-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-174206199-1');
+  </script>
+</head>
+
+<body>
+  <table width="815" border="0" align="center" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+          <tr>
+            <td width="67%" valign="middle">
+              <p align="center">
+                <name>Dhruti Shah</name>
+              </p>
+              <p>Hi, I'm Dhruti! I am a Machine Learning Engineer at <a href="https://www.apple.com">Apple</a>  in Zurich. I work on improving search quality at AI/ML Apple. </p> 
+
+              <p>I obtained my Masters in Data Science at École polytechnique fédérale de Lausanne <a href="https://www.epfl.ch/en/">(EPFL)</a>. I did my Master's thesis at <a href="https://www.zurich.ibm.com">IBM Research Zurich</a>, in collaboration with <a href="https://people.epfl.ch/rudiger.urbanke">Prof Rudiger Urbanke</a> at EPFL.</p>
+
+              <p>I completed my Bachelors+Masters Dual Degree in Electrical Engineering from Indian Institute of Technology, Bombay <a href="https://www.iitb.ac.in">(IITB)</a>, with a specialization in Communication and Signal Processing, in 2014. I was awarded the Shankar Dayal Sharma <a href="https://www.iitb.ac.in/newacadhome/medaldetails.jsp">Institute Gold Medal</a> for general proficiency, excellence in academic performance, extra curricular activities and social services among all graduating students.</p>
+
+              <p> I've had the pleasure of working at: </p>
+              <ul>
+              	<li><a href="https://www.apple.com">Apple</a> , Zurich.</li>
+                <li><a href="https://www.zurich.ibm.com">IBM Research, Zurich</a> in the AI Automation team with <a href="https://researcher.watson.ibm.com/researcher/view.php?person=zurich-ACM">Cristiano Malossi</a> and <a href="https://researcher.watson.ibm.com/researcher/view.php?person=zurich-EID">Florian Scheidegger</a>.</li>
+                <li><a href="https://www.epfl.ch/labs/cvlab/">Computer Vision Lab</a>, EPFL with <a href="https://www.linkedin.com/in/senakicir/?originalSubdomain=ch">Sena Kıcıroğlu</a>, <a href="https://people.epfl.ch/pascal.fua/bio?lang=en">Pascal Fua</a>. </li>
+                <li><a href="https://www.epfl.ch/schools/ic/ipg/">Information Processing Group</a>, EPFL with <a href="https://people.epfl.ch/rudiger.urbanke">Prof Rudiger Urbanke</a>. </li>
+                <li>Signal Processing Lab, IITB with <a href="https://www.ee.iitb.ac.in/web/people/faculty/home/nikhilk">Prof Nikhil Karamchandani</a>. </li>
+                <li><a href="https://www.qualcomm.com">Qualcomm</a>, India. </li>
+              </ul>
+
+              <p>I have led the <a href="images/contingent.png">IITB Sports contingent</a> of 150 athletes to <a href="images/trophy.jpg">win</a> the coveted <a href="https://en.wikipedia.org/wiki/Inter_IIT_Sports_Meet">Inter IIT Sports Meet</a>. I love to play tennis, badminton and chess, and I am an avid <a href="https://www.goodreads.com/user/show/56877120-dhruti">reader</a>.</p>
+
+              <!-- <p>I am a <a href="https://snapresearchfs.splashthat.com/"> Snap Research Scholar (2019)</a> and a <a
+                  href="https://www.siebelscholars.com/scholar-profile/1425/">Siebel Scholar (2018)</a>!</p> -->
+              <p align=center>
+                <a href="mailto:dhruti96shah@gmail.com">Email</a> &nbsp/&nbsp
+                <!-- <a href="files/CV_dhruti_short.pdf">Short CV</a> &nbsp/&nbsp -->
+                <a href="files/CV_Dhruti_2022.pdf">CV</a> &nbsp/&nbsp
+                <a href="https://www.linkedin.com/in/dhruti96shah"> LinkedIn</a>
+              </p>
+            </td>
+            <td width="50%">
+              <img width="100%" src="images/dhruti2.jpg">
+            </td>
+          </tr>
+        </table>
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+          <tr>
+            <td width="100%" valign="middle">
+              <heading>Key Research Projects</heading>
+            </td>
+          </tr>
+        </table>
+        <table id="publications" width="100%" align="center" border="0" border-spacing="0" border-collapse="separate"
+          cellspacing="0" cellpadding="20">
+          <!-- <tr bgcolor="#ffffd0"> -->
+          <tr>
+            <td width="25%" valign="top">
+              <img id="paper_img" src='images/crack.png'>
+            </td>
+            <td width="75%" valign="center">
+              <papertitle>Interactive Fast Annotation Method for Machine Learning pipelines</papertitle>
+              <br>
+              Masters thesis, <a href="https://www.zurich.ibm.com">IBM Research Zurich</a>
+              <br>
+              <papertitle>(Ongoing)</papertitle>
+              <br>
+              August 2021 - January 2022
+              <br>
+              <p align="justify">
+                <abstract>
+                In recent times, deep learning methods have achieved remarkable performance on various computer vision tasks, thanks to the availability of large, well-curated data sets (e.g. ImageNet, COCO). However, there still exist several application scenarios where either the amount or quality of annotations is limited. This warrants a need for a solution in novel use cases that includes annotating or re-annotating application specific data. Existing tools for annotations present several limitations including operating with high-resolution images, as well as annotating rare application data, such as defects on concrete surfaces. To address these issues, we are working towards developing a method for auto-annotation.
+                </abstract>
+              </p>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td width="25%" valign="top">
+              <img id="paper_img" src='images/stitching.png'>
+            </td>
+            <td width="75%" valign="center">
+              <papertitle>Improved Image Stitching for Defect and Anomaly Detection</papertitle>
+              <br>
+              Research Intern, <a href="https://www.zurich.ibm.com">IBM Research Zurich</a>
+              <br>
+              <papertitle>(Patent pending)</papertitle>
+              <br>
+              July 2020 - January 2021
+              <br>
+              <p align="justify">
+                <abstract>
+                Current image stitching algorithms suffer from scalability, low speed and distort component images for a smooth output. To address these challenges, we develop an image stitching method, using OpenCV, for a large number of planar images captured by a drone. Our algorithm runs on the GPU providing a speed-up of 30x, and ability to stitch more than 100 images in under 5 min. Our method was integrated with state-of-the-art defect detection methods, to localize defects on high-end civil engineering infrastructure. Further, we utilized image registration techniques to study the evolution of defects over time.
+                </abstract>
+              </p>
+            </td>
+          </tr>
+          
+          <tr>
+            <td width="25%" valign="top">
+              <img id="paper_img" src='images/keypose.png'>
+            </td>
+            <td width="75%" valign="center">
+              <papertitle>Long-term motion prediction using keyposes</papertitle>
+              <br>
+              Semester Project, <a href="https://www.epfl.ch/labs/cvlab/">CV Lab, EPFL</a>
+              <br>
+              <papertitle>(Publication in progress)</papertitle>
+              <br>
+              February 2021 - June 2021
+              <br>
+              <p align="justify">
+                <abstract>
+                The problem of human pose motion forecasting can be tackled by decomposing the input sequence into few essential 'keyposes' and performing prediction over these keyposes. Current works determine the key poses using traditional k-Means clustering and perform sequence prediction using RNN-based architectures.  In natural language processing and vision, transformers are becoming the de-facto model for sequence prediction. Therefore, we study the improvement obtained by replacing the LSTMs with the transformer architecture. Additionally, we explore the use of VQ-VAE based models to obtain a better set of keyposes.
+                </abstract>
+              </p>
+              <a href="files/CV_lab_report.pdf">Report</a>
+            </td>
+          </tr>
+
+          <tr>
+            <td width="25%" valign="top">
+              <img id="paper_img" src='images/balls.png'>
+            </td>
+            <td width="75%" valign="center">
+              <papertitle>Top-m entity resolution</papertitle>
+              <br>
+              Dual Degree thesis, <a href="https://www.ee.iitb.ac.in/web/people/faculty/home/nikhilk">Prof Nikhil Karamchandani</a>, IITB
+              <br>
+              <papertitle>(AAAI 2020)</papertitle>
+              <br>
+              January 2018 - June 2019
+              <br>
+              <p align="justify">
+                <abstract>
+                We developed information theoretic bounds and algorithms to identify the top clusters for entity resolution in presence of an oracle. We considered two cases, one with a noisy oracle and the second with noisy side information matrix. Provided a theoretical proof and supporting empirical study (on Amazon Purchase Dataset) that our algorithm reduces the query complexity from O(n*2) to O(nlogn) in both cases.
+                </abstract>
+              </p>
+              <a href="https://arxiv.org/pdf/1911.08197.pdf">AAAI 2020 Paper</a>, <a href="https://ieeexplore.ieee.org/abstract/document/8732224">NCC 2020 Paper</a>
+            </td>
+          </tr>
+
+          <tr>
+            <td width="25%" valign="top">
+              <img id="paper_img" src='images/qc.png' height="40">
+            </td>
+            <td width="75%" valign="center">
+              <papertitle>Feature enhancement for flash memory communication</papertitle>
+              <br>
+              Summer Internship, <a href="https://www.qualcomm.com">Qualcomm</a>
+              <br>
+              May 2017 - July 2017
+              <br>
+              <p align="justify">
+                <abstract>
+                Modified and enhanced the primary tool used responsible for sending Operating System (OS) images from the source to flash memory on target, thereby loading and booting the OS on target. Optimized time requirements by 50% through compression of sparse files & sending smaller data chunks. Innovated the handling of partitions for NAND targets through integration with existing GPT partition tables. Tested the above enhancements and innovations on Qualcomm devices before real-world deployment
+                </abstract>
+              </p>
+            </td>
+          </tr>          
+
+        </table>
+
+        <!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+          <tr>
+            <td>
+              <heading>Teaching</heading>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" align="center" border="0" cellpadding="20">
+          <tr>
+            <td width="75%" valign="center">
+              <p>
+              <p style="font-size:18px">I am/have been a teaching assistant for the following courses:</p>
+              <ul>
+                <li><a href="https://courses.engr.illinois.edu/cs440/fa2018/">
+                    <papertitle>Artificial Intelligence (CS440) - Fall 2018</papertitle>
+                  </a></li>
+                <li><a href="https://cs125.cs.illinois.edu/">
+                    <papertitle>Introduction to Computer Science (CS125) - Spring 2018
+                  </a>
+                </li>
+              </ul>
+              </p>
+            </td>
+          </tr>
+        </table> -->
+
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td>
+              <br>
+              <p align="right">
+                <font size="2">
+                  <a href="http://www.cs.berkeley.edu/~barron/">Cloned from here!</a>
+                </font>
+              </p>
+            </td>
+          </tr>
+        </table>
+
+</body>
+
+</html>
